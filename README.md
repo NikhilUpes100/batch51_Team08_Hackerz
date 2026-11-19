@@ -12,9 +12,9 @@ The system displays questions with four options, accepts answers from the user, 
 
 | Member | Name | Responsibility |
 |---|---|---|
-| Member 1 | [Enter Name] | Structure and Question Storage |
-| Member 2 | [Enter Name] | Menu and Quiz Execution |
-| Member 3 | [Enter Name] | Result Calculation and Program Exit |
+| Member 1 | [Hansika Pundir] | Structure and Question Storage |
+| Member 2 | [Shreyas Singh] | Menu and Quiz Execution |
+| Member 3 | [Nikhil Singh] | Result Calculation and Program Exit |
 
 ## 4. Project Objectives
 
