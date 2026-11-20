@@ -15,9 +15,9 @@ It also generates a combined result report and identifies the highest-scoring st
 
 | Member | Name | Responsibility |
 |---|---|---|
-| Member 1 | [Hansika Pundir] | Question and Student Data Management |
-| Member 2 | [Shreyas Singh] | Student Registration and Quiz Execution |
-| Member 3 | [Nikhil Singh] | Result Management and Topper Identification |
+| Member 1 | Hansika Pundir(590035204) | Question and Student Data Management |
+| Member 2 | Shreyas Singh(590042649) | Student Registration and Quiz Execution |
+| Member 3 | Nikhil Singh(590042650) | Result Management and Topper Identification |
 
 ## 4. Project Objectives
 
